@@ -5,7 +5,8 @@ C# library for interacting with GPS unit over USB
 
 Known to work with GPS model# BU-353
 
-License
+
+Licensed under the MIT License (MIT)
 =========
 
 Copyright (c) 2011, Wade Schulz
